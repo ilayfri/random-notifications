@@ -1,0 +1,39 @@
+.notification-div{
+    width: 430px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.close-span{
+    cursor: pointer;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.info{
+    background: #CCE8F4;
+    border: 1px solid #B2CCD6;
+    color: #608499
+}
+
+.warning{
+    background: #F8F3D6;
+    border: 1px solid #DDD9BB;
+    color: #AA9A74
+}
+
+.error{
+    background: #EBC8C4;
+    border: 1px solid #BEA2A3;
+    color: #C25F66
+}
+
+.success{
+    background: #DEF2D6;
+    border: 1px solid #CBD9C3;
+    color: #7B8F73
+}
