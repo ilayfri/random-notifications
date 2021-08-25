@@ -7,4 +7,5 @@
 ** DB - mongoDB (If needed more access let me know)
 
 1 - run backend (node app.js)
+
 2 - run frontend (npm start)
